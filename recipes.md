@@ -113,3 +113,18 @@ Instructions:
 7. Drop tablespoon-sized balls of dough onto ungreased baking sheets.
 8. Bake for 8 to 10 minutes or until golden brown.
 9. Cool on wire racks.
+
+
+### Matcha Mochi
+
+**Ingredients:**
+- 1 cup glutinous rice flour
+- 1/4 cup sugar
+- 2/3 cup water
+- 1 tsp matcha powder
+- Cornstarch for dusting
+
+Instructions:
+1. Mix flour, sugar, matcha, and water until smooth.
+2. Microwave in intervals, stirring in between, until thick and sticky.
+3. Dust surface with cornstarch, shape into small pieces, and let cool.
